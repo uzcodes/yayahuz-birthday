@@ -41,7 +41,7 @@ export default function Home() {
          Nós do grupo 1.2 queremos parabenizá-la nessa data tão especial que é o seu aniversário. Como membros anciões e futuro da live, gostaríamos de desejar muitos anos de vida, que você cresça ainda mais na twitch e dizer que sempre estaremos aqui para apoiá-la em tudo. Agradecemos por todos os momentos felizes que você nos proporcionou com as lives:
         </p>
         <p>
-          Livezinhas da cadeira com a net do hotel, jogando um lolzinho com 30 fps, luz improvisada, com a irmã do lado conversando e depois os filmes da madrugada;
+          Livezinhas da cadeira com a net do hotel, jogando um lolzinho com 30 fps, luz improvisada e os filmes da madrugada;
         </p>
         <p>Gameplays de phasmophobia com a Mayumi, Yulla e Bonner;</p>
         <p>Lives da Bad Yayah (vulgo mosquito ou messi de óculos);</p>
